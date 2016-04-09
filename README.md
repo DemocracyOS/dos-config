@@ -26,7 +26,6 @@ var config = require('dos-config')
 if (config.logSomething) {
   console.log('something!')
 }
-
 ```
 
 ## License

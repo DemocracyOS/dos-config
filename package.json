@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/DemocracyOS/dos-config/issues"
   },
-  "homepage": "https://github.com/DemocracyOS/dos-config#readme"
+  "homepage": "https://github.com/DemocracyOS/dos-config#readme",
+  "dependencies": {
+    "democracyos-config": "^0.1.1"
+  }
 }
