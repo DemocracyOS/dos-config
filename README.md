@@ -1,4 +1,6 @@
-# DemocracyOS Config Singleton Object
+# Config Singleton Object
+
+Singleton version of [DemocracyOS/config](https://github.com/DemocracyOS/config).
 
 ## Usage:
 
@@ -10,13 +12,7 @@ npm i -S dos-config
 
 2 · Create your configuration files following the conventions of [DemocracyOS/config](https://github.com/DemocracyOS/config#usage).
 
-3 · Load your config files:
-
-```javascript
-require('dos-config')()
-```
-
-4 · Profit from singletonation
+3 · Profit from singletonation
 
 ```javascript
 var config = require('dos-config')
