@@ -2,16 +2,10 @@
 
 ## Usage:
 
-1 · Add to your `package.json`:
+1 · Install
 
 ```json
-{
-  ...
-  "dependencies": {
-    "config": "DemcoracyOS/config-singleton"
-  }
-  ...
-}
+npm i -S dos-config
 ```
 
 2 · Create your configuration files following the conventions of [DemocracyOS/config](https://github.com/DemocracyOS/config#usage).
@@ -19,7 +13,7 @@
 3 · Load your config files:
 
 ```javascript
-require('config')({
+require('dos-config')({
   path: __dirname + 'path/to/your/config/files/folder'
 })
 ```
@@ -27,7 +21,7 @@ require('config')({
 4 · Profit from singletonation
 
 ```javascript
-var config = require('config')
+var config = require('dos-config')
 
 if (config.logSomething) {
   console.log('something!')

@@ -1,15 +1,15 @@
 {
-  "name": "democracyos-config-singleton",
+  "name": "dos-config",
   "version": "0.0.1",
-  "description": "",
+  "description": "Seingleton variant of DemocracyOS/config",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DemocracyOS/config-singleton.git"
+    "url": "git+https://github.com/DemocracyOS/dos-config.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DemocracyOS/config-singleton/issues"
+    "url": "https://github.com/DemocracyOS/dos-config/issues"
   },
-  "homepage": "https://github.com/DemocracyOS/config-singleton#readme"
+  "homepage": "https://github.com/DemocracyOS/dos-config#readme"
 }
