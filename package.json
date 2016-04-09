@@ -1,6 +1,6 @@
 {
   "name": "dos-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Seingleton variant of DemocracyOS/config",
   "scripts": {},
   "repository": {
@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/DemocracyOS/dos-config#readme",
   "dependencies": {
-    "democracyos-config": "^0.1.1"
+    "democracyos-config": "^1.0.0"
   }
 }

@@ -13,9 +13,7 @@ npm i -S dos-config
 3 · Load your config files:
 
 ```javascript
-require('dos-config')({
-  path: __dirname + 'path/to/your/config/files/folder'
-})
+require('dos-config')()
 ```
 
 4 · Profit from singletonation
