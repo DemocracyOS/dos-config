@@ -1,7 +1,7 @@
 {
   "name": "dos-config",
   "version": "2.1.0",
-  "description": "Seingleton variant of DemocracyOS/config",
+  "description": "Singleton variant of DemocracyOS/config",
   "scripts": {},
   "repository": {
     "type": "git",
