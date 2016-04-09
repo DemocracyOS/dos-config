@@ -12,7 +12,13 @@
     "url": "https://github.com/DemocracyOS/dos-config/issues"
   },
   "homepage": "https://github.com/DemocracyOS/dos-config#readme",
+  "bin": {
+    "dos-config-init": "bin/init.js"
+  },
   "dependencies": {
     "democracyos-config": "^1.0.0"
+  },
+  "devDependencies": {
+    "copy-dir": "0.0.8"
   }
 }
