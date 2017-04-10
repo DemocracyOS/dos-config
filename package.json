@@ -1,6 +1,6 @@
 {
   "name": "dos-config",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "Singleton variant of DemocracyOS/config",
   "scripts": {},
   "repository": {
@@ -16,7 +16,7 @@
     "dos-config-init": "bin/init.js"
   },
   "dependencies": {
-    "democracyos-config": "^1.0.0"
+    "democracyos-config": "1.1.1"
   },
   "devDependencies": {
     "copy-dir": "0.0.8"
